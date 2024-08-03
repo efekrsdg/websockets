@@ -1,3 +1,3 @@
-Medium yazımda bahsetmiş olduğum Websockets yazım için oluşturduğum basit bir Websockets entegrasyonu.
+Medium'da yazdığım Websockets 101 yazım için oluşturduğum basit bir Websockets entegrasyonu.
 
-İlgili yazıya ve benim hesabıma ulaşmak için => https://medium.com/@efekarsidag
+İlgili yazıya ve hesabıma ulaşmak için => https://medium.com/@efekarsidag
